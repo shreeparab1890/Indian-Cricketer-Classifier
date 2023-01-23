@@ -1,0 +1,7 @@
+PyWavelets
+opencv-python
+matplotlib
+pybase64
+scikit-learn
+joblib
+PyWavelets
