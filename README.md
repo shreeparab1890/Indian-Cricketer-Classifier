@@ -1,5 +1,5 @@
 # Indian Cricketer Classifier:
-This notebook is trying to bulia a model which will predict a Indian Cricketer based on the given image. In this project we have handelled 8 Indian Cricketers and bulild a model to classify the given image between this 8 Cricketers.  
+This notebook is trying to bulia a model which will predict a Indian Cricketer based on the given image. In this project we have handled 8 Indian Cricketers and build a model to classify the given image between this 8 Cricketers.  
 #### The Indian Cricketrs are: 
         1. M.S. Dhoni
         2. Rahul Dravid
